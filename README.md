@@ -1,2 +1,2 @@
 # CAR-Net 
-The testing data is in release.
+The testing sample could be found in Release.
